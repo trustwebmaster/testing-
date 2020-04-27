@@ -114,7 +114,6 @@ error_reporting(0);
                     <a href='admin.php'>Login as Headmaster</a>
                 </div>
             </div>
-
         </div>
     </div>
     </div>
